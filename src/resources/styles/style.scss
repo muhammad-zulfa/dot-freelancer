@@ -1,0 +1,21 @@
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/variables";
+@import "~bootstrap/scss/mixins";
+@import "~bootstrap/scss/utilities";
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+
+$bg-main: #f1f1ec;
+$textbrand: "Comic Sans MS", sans-serif;
+
+.pointer-cursor{
+  cursor: pointer;
+}
+
+body, html{
+  background-color: $bg-main !important;
+}
+
+.text-brand{
+  font-family: $textbrand
+}

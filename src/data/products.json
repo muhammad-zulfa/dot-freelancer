@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Sambal Cumi Jumawa",
+    "img": "images/product/sambal1.jpeg",
+    "price": 40000,
+    "weight": 400,
+    "added": 0
+  },
+  {
+    "id": 2,
+    "name": "Sambal Bawang Jumawa",
+    "img": "images/product/sambal4.jpeg",
+    "price": 30000,
+    "weight": 400,
+    "added": 0
+  },
+  {
+    "id": 3,
+    "name": "Sambal Terasi Jumawa",
+    "img": "images/product/sambal3.jpeg",
+    "price": 37000,
+    "weight": 400,
+    "added": 0
+  },
+  {
+    "id": 4,
+    "name": "Sambal Udang Jumawa",
+    "img": "images/product/sambal4.jpeg",
+    "price": 49000,
+    "weight": 400,
+    "added": 0
+  },
+  {
+    "id": 5,
+    "name": "Sambal Matah Jumawa",
+    "img": "images/product/sambal3.jpeg",
+    "price": 40000,
+    "weight": 400,
+    "added": 0
+  },
+  {
+    "id": 6,
+    "name": "Sambal Tomat Jumawa",
+    "img": "images/product/sambal2.jpeg",
+    "price": 40000,
+    "weight": 400,
+    "added": 0
+  },
+  {
+    "id": 7,
+    "name": "Sambal Cumi Tomat Jumawa",
+    "img": "images/product/sambal4.jpeg",
+    "price": 43000,
+    "weight": 400,
+    "added": 0
+  },
+  {
+    "id": 8,
+    "name": "Sambal Cumi Dobel Jumawa",
+    "img": "images/product/sambal1.jpeg",
+    "price": 75000,
+    "weight": 800,
+    "added": 0
+  }
+]
